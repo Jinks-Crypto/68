@@ -1,8 +1,22 @@
-.movie_head{
-    font-size: 25px;
-    margin: 6px 22px;
-    border-radius: 20px;
+body{
+    text-align: center;
+    background:linear-gradient(#00fff7 0%,#00ffc3 100%)
 }
-i {
-float:right;    
+.menu{
+    list-style-type: none;
+    font-size: :30px;
+    font-family: 'Cinzel Decorative', cursive;
+    position:fixed;
+    cursor: pointer;
+    margin-left:1200px;
+        
 }
+        .links{
+            color: forestgreen;
+            padding-right:10px;
+            padding-left:5px; 
+            float: left;
+}
+iframe{
+
+    margin:30px;}
